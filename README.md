@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey, I'm Eddie
 
-<!--
-**Eddieklickstark/Eddieklickstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[klickstark digital.act](https://klickstark.de)** — a growth partner for B2B SaaS startups.
 
-Here are some ideas to get you started:
+We help early-stage SaaS companies find their positioning, build high-converting websites, and launch their go-to-market strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- **Positioning & Strategy** — Helping B2B SaaS startups find their market fit and craft a compelling narrative
+- **Web Design & Development** — Building websites that convert, using modern tech stacks
+- **Go-to-Market** — From launch strategy to first paying customers
+
+### Currently building
+
+- [openclawd-intelligence](https://github.com/Eddieklickstark/openclawd-intelligence) — AI-powered intelligence tool
+- [vibe-coding](https://github.com/Eddieklickstark/vibe-coding) — Template repo for vibe-coding experiments
+
+### Connect
+
+- [klickstark.de](https://klickstark.de)
+- [LinkedIn](https://linkedin.com/in/eddieesche)
+
+---
+
+Based in Leipzig, Germany.
